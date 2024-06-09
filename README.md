@@ -21,5 +21,11 @@ View the Calculator App [here](https://danielkremes05.github.io/app-calulator/).
 - Styled-components
 - React Hooks
 
-## Updated: 9th June 2024
+## Dependencies
+    "react": "18.3.1",
+    "react-scripts": "5.0.1",
+    "styled-component": "^2.8.0",
+    "styled-components": "^6.1.11",
 
+
+## Updated: 9th June 2024
