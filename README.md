@@ -1,23 +1,24 @@
 # App React Calculator
 
-## How about this project:
-    - The idea is make one simple calculator in react to training my skils in react
+## Project Overview
+The aim of this project is to create a simple calculator using React to improve my skills in React development.
 
-Usage
-## To use the calculator, the user can:
+## Usage
+To use the calculator, users can:
 
 - Enter numbers using the numeric buttons (0-9).
 - Click on an operation button (+, -, *, /) to set the desired operation.
 - Enter another number.
 - Click the equals button (=) to perform the calculation and display the result.
 - Click the clear button (C) to reset the calculator.
-- The user can also use the decimal point button (.) to enter decimal numbers.
+- Users can also use the decimal point button (.) to enter decimal numbers.
 
-## Skils used:
-    - HTML5 CSS3 JavaScript
-    - styled-components
-    - Hooks react
+## Project Link
+View the Calculator App [here](https://danielkremes05.github.io/app-calulator/).
 
-## Updated 9 June 2024
+## Skills Used
+- HTML5, CSS3, JavaScript
+- Styled-components
+- React Hooks
 
-
+## Updated: 9th June 2024
