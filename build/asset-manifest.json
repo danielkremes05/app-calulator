@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/app-calulator/static/js/main.a4e75364.js",
+    "static/media/background-page.jpg": "/app-calulator/static/media/background-page.065c9739e4df485f38e7.jpg",
+    "index.html": "/app-calulator/index.html",
+    "main.a4e75364.js.map": "/app-calulator/static/js/main.a4e75364.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a4e75364.js"
+  ]
+}
